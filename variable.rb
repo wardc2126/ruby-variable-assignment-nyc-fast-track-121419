@@ -1,3 +1,1 @@
-local Variable = "Greeting"
- puts "Hello World
-"
+greeting = "Hello World"
